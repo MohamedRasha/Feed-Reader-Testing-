@@ -17,6 +17,7 @@ you can clone or download the repo and check the test cases you will find it in 
 
 after downloading or cloning the repo open index.html in the browser to see the application running and scroll down to check jasmine testing status
 
-or, you can try it from [here](https://github.com/MohamedRasha/Feed-Reader-Testing)
+or, you can try it from [here](https://mohamedrasha.github.io/Feed-Reader-Testing-/)
+
 
 
